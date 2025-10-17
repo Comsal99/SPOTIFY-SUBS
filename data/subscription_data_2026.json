@@ -1,0 +1,47 @@
+{
+  "year": 2026,
+  "members": [
+    "João Silva",
+    "Maria Costa"
+  ],
+  "payments": {
+    "João Silva": {
+      "Jan": true,
+      "Feb": true,
+      "Mar": true
+    },
+    "Maria Costa": {}
+  },
+  "payment_history": [
+    {
+      "timestamp": "2025-10-17T08:30:01.162942",
+      "member": "João Silva",
+      "month": "Jan",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:30:02.141488",
+      "member": "João Silva",
+      "month": "Feb",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:30:41.768498",
+      "member": "João Silva",
+      "month": "Mar",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    }
+  ],
+  "settings": {
+    "total_price": 100.0,
+    "max_slots": 6
+  },
+  "created_at": "2025-10-17T08:26:44.546069",
+  "updated_at": "2025-10-17T08:30:41.768512"
+}

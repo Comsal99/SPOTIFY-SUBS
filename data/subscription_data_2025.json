@@ -1,0 +1,77 @@
+{
+  "year": 2025,
+  "members": [],
+  "payments": {},
+  "payment_history": [
+    {
+      "timestamp": "2025-10-17T08:24:12.866680",
+      "member": "NOME_1",
+      "month": "Jan",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:24:13.682705",
+      "member": "NOME_1",
+      "month": "Feb",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:24:14.994121",
+      "member": "NOME_1",
+      "month": "Mar",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:24:15.776500",
+      "member": "NOME_1",
+      "month": "Apr",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:25:21.079526",
+      "member": "NOME_1",
+      "month": "May",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:25:22.010110",
+      "member": "NOME_1",
+      "month": "Jun",
+      "action": "marked_paid",
+      "old_status": false,
+      "new_status": true
+    },
+    {
+      "timestamp": "2025-10-17T08:25:23.010532",
+      "member": "NOME_1",
+      "month": "May",
+      "action": "marked_unpaid",
+      "old_status": true,
+      "new_status": false
+    },
+    {
+      "timestamp": "2025-10-17T08:25:23.450709",
+      "member": "NOME_1",
+      "month": "Jun",
+      "action": "marked_unpaid",
+      "old_status": true,
+      "new_status": false
+    }
+  ],
+  "settings": {
+    "total_price": 2.33,
+    "max_slots": 6
+  },
+  "created_at": "2025-10-17T08:23:36.044694",
+  "updated_at": "2025-10-17T08:28:23.918239"
+}
